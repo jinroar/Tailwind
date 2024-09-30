@@ -8,11 +8,12 @@ Submitted by Jene🚍🏎🚉🚅🚇🚃🚋
                                                                 
    > this adds another folder "PokeBattle" in the project
 
-  2. Run in terminal: 
+  2. Run in terminal:
+
     npm install
     npm run start
 
-  3. On a seperate terminal. Navigate to "/PokeBattle" folder and run:
+  4. On a seperate terminal. Navigate to "/PokeBattle" folder and run:
 
     npm install
     npm run dev
