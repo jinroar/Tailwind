@@ -24,12 +24,17 @@ Submitted by Jene🚍🏎🚉🚅🚇🚃🚋
 # <!> Program Navigation <!> 
 
 ## Enter pokemon name on both sections either via dropdown or text-input:
- ###  press `FIGHT` to confirm
+![Selection](https://github.com/user-attachments/assets/b0a30cb3-7a1c-4adf-8460-32e4bd472fe9)
+###  press `FIGHT` to confirm
+![Fight](https://github.com/user-attachments/assets/8030ecb1-d669-4035-9cd9-fecb5b3ca50b)
+### Results:
+![Res](https://github.com/user-attachments/assets/8ec54c18-0055-4d72-b4b5-d33229830f5c)
 
                                         
  #  Limitations:
- ### * Needs two presses to get the correct results
+ ### * Needs double Fight presses to get the refresh results
  ### * Server must run with frontend
+
  
 
   
