@@ -28,9 +28,6 @@ Submitted by Jene🚍🏎🚉🚅🚇🚃🚋
 ###  press `FIGHT` to confirm
 ![Fight](https://github.com/user-attachments/assets/8030ecb1-d669-4035-9cd9-fecb5b3ca50b)
 ### Results:
-![Res](https://github.com/user-attachments/assets/8ec54c18-0055-4d72-b4b5-d33229830f5c)
-### Refresh Results and Press **Fight** again:
-![hover](https://github.com/user-attachments/assets/04e28ddd-b0b2-406c-b0ce-fe4852599aef)
 ![res2](https://github.com/user-attachments/assets/554be1a0-e923-4bab-898a-104c1c5b9f61)
 
  #  Limitations:
