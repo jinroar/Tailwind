@@ -29,8 +29,10 @@ Submitted by Jene🚍🏎🚉🚅🚇🚃🚋
 ![Fight](https://github.com/user-attachments/assets/8030ecb1-d669-4035-9cd9-fecb5b3ca50b)
 ### Results:
 ![Res](https://github.com/user-attachments/assets/8ec54c18-0055-4d72-b4b5-d33229830f5c)
+### Refresh Results and Press **Fight** again:
+![Res](https://github.com/user-attachments/assets/6d977d76-da6b-4215-a60d-f1befb4b2484)
+![res2](https://github.com/user-attachments/assets/554be1a0-e923-4bab-898a-104c1c5b9f61)
 
-                                        
  #  Limitations:
  ### * Needs double Fight presses to get the refresh results
  ### * Server must run with frontend
