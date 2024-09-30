@@ -5,7 +5,7 @@ Submitted by Jene🚍🏎🚉🚅🚇🚃🚋
   1. Clone git repository "PokeBattle" in the project root
       ##### this adds another folder "PokeBattle" in the project                          
 
-          git clone https://github.com/jinroar/Pokebattle.git
+    git clone https://github.com/jinroar/Pokebattle.git
 
     
 
